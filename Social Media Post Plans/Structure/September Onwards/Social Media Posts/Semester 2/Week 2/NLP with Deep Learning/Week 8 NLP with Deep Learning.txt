@@ -1,0 +1,8 @@
+**Week 8: NLP with Deep Learning**
+
+**Post 1: Text Processing with Neural Networks**
+1. **Text Data Preprocessing:** Start by learning the essentials of text preprocessing for deep learning, including tokenization, stemming, and lemmatization.
+2. **Vectorization Techniques:** Experiment with different text vectorization techniques, such as one-hot encoding and word embeddings, to prepare text data for neural networks.
+3. **Building a Text Classifier:** Use a neural network to build a basic text classification model, such as for sentiment analysis or spam detection.
+4. **Text Data Augmentation:** Explore text data augmentation techniques to enhance your model's robustness and improve performance with limited data.
+5. **Text Processing Tools:** Familiarize yourself with NLP libraries and tools that can simplify text processing tasks, streamlining your workflow.

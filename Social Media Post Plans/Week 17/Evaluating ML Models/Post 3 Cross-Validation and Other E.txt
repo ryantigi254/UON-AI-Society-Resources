@@ -1,0 +1,7 @@
+**Post 3: Cross-Validation and Other Evaluation Techniques**
+1. **Testing Rigor:** Cross-validation tests a model’s performance on different subsets of data to ensure its predictions hold up across various data samples.
+2. **Fold It Right:** In k-fold cross-validation, data is split into 'k' parts; the model is trained on 'k-1' parts and tested on the remaining part, repeated 'k' times.
+3. **Generalization Check:** This process helps check how well the model generalizes to new, unseen data.
+4. **Bootstrap Methods:** Another technique, bootstrapping, uses random samples with replacement to validate model accuracy.
+5. **Metric Selection:** Depending on the problem, other metrics like recall, F1 score, and mean squared error might be more indicative of performance than accuracy alone.
+

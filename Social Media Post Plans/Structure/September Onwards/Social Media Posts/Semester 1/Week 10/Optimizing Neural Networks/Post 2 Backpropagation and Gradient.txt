@@ -1,0 +1,6 @@
+**Post 2: Backpropagation and Gradient Descent**
+1. **Backpropagation Basics:** Dive into an interactive tutorial or simulation that demystifies the backpropagation process, illustrating how neural networks learn.
+2. **Gradient Descent Variants:** Compare stochastic gradient descent (SGD) with variants like mini-batch SGD and understand their trade-offs.
+3. **Hands-on Gradient Descent:** Implement a basic gradient descent algorithm in a notebook environment, experimenting with different learning rates.
+4. **Visualizing Gradients:** Use visualization tools to observe gradient descent in action, noting how it minimizes the loss function.
+5. **Troubleshooting Learning:** Learn common issues like vanishing or exploding gradients and strategies to mitigate them, enhancing your model training process.

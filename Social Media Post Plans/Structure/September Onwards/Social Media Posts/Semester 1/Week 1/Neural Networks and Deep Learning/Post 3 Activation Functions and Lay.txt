@@ -1,0 +1,7 @@
+**Post 3: Activation Functions and Layers**
+1. **Activation's Role:** Activation functions in neurons determine whether and how strongly a neuron will respond, influencing the network’s output.
+2. **Types of Activation:** Common functions like ReLU (Rectified Linear Unit) and sigmoid play different roles, from introducing non-linearity to normalizing output.
+3. **Layer Functions:** Different layers capture varying levels of detail; early layers might detect edges in an image, while deeper layers recognize complex shapes.
+4. **Deep Architectures:** Networks can be deepened with more layers or broadened with more neurons to increase learning capacity.
+5. **Training Challenges:** As networks grow, challenges like vanishing gradients can arise, addressed through techniques like batch normalization and dropout layers.
+

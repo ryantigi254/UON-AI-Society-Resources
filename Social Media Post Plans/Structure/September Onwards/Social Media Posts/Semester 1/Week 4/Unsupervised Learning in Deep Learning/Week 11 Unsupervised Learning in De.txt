@@ -1,0 +1,9 @@
+**Week 11: Unsupervised Learning in Deep Learning**
+
+**Post 1: Autoencoders and Feature Learning**
+1. **Efficient Encoders:** Autoencoders compress input data into a condensed representation and then reconstruct it, learning efficient ways to capture essential data features.
+2. **Dimensionality Reduction:** They're great for dimensionality reduction, discovering the most significant features in the data, which can then be used for tasks like anomaly detection.
+3. **Data Denoising:** Autoencoders can also be trained to remove noise from data, enhancing the quality of signal in tasks like image processing.
+4. **Feature Discovery:** By learning to prioritize which features to encode, autoencoders help in identifying underlying patterns in the data.
+5. **Representation Relevance:** The representations learned by autoencoders can be used to feed into other ML models, providing a more digestible form of complex data.
+

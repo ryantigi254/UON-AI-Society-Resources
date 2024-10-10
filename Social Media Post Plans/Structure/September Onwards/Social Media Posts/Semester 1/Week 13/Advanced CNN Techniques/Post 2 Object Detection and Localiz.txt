@@ -1,0 +1,7 @@
+**Post 2: Object Detection and Localization**
+1. **Basics of Object Detection:** Understand the fundamentals of object detection and how CNNs can be used to identify and locate objects within images.
+2. **Implementing Object Detection:** Utilize an object detection framework (like YOLO or SSD) to train a model on a dataset for detecting objects.
+3. **Bounding Boxes and Annotations:** Learn to work with bounding boxes and annotations, essential components of object detection datasets.
+4. **Evaluation Metrics:** Familiarize yourself with object detection evaluation metrics, such as mean Average Precision (mAP), to assess your model's accuracy.
+5. **Practical Applications:** Explore practical applications of object detection, from surveillance to augmented reality, and consider developing a small project.
+

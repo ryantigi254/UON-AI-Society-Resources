@@ -1,0 +1,7 @@
+**Post 2: The Anatomy of Neural Networks**
+1. **Neural Blueprints:** Neural networks consist of interconnected nodes or neurons that process data in a structure inspired by the human brain.
+2. **Weighted Connections:** Each connection between neurons has a weight that adjusts as the network learns, refining its predictions.
+3. **Layered Processing:** Data passes through input, hidden, and output layers, with each layer learning different aspects of the data.
+4. **Backpropagation:** This key training method adjusts weights by calculating and 'back-propagating' errors from the output back through the network.
+5. **Learning Deeply:** In deep networks, multiple hidden layers can capture hierarchical features, making them powerful for complex problem-solving.
+

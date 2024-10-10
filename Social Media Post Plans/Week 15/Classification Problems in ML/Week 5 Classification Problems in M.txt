@@ -1,0 +1,8 @@
+**Week 5: Classification Problems in ML**
+
+**Post 1: What Are Classification Problems?**
+1. **Sorting the World:** Classification problems involve categorizing data into predefined groups, like classifying emails as spam or not spam.
+2. **Binary Decisions:** Many classification problems are binary, answering yes/no questions, such as whether a tumor is malignant or benign.
+3. **Multi-class Complexity:** Some problems have multiple classes, like identifying the type of animal in a picture.
+4. **Probabilistic Classifiers:** These classifiers assess the likelihood of membership in each possible class, like the chances of rain on a given day.
+5. **Real-time Decisions:** Classification is essential for systems that need to make immediate decisions, such as autonomous vehicles recognizing traffic signs.

@@ -1,0 +1,9 @@
+**Week 9: Convolutional Neural Networks (CNNs)**
+
+**Post 1: CNNs and Image Recognition**
+1. **Specialized Vision:** Convolutional Neural Networks are designed to process pixel data, excelling in image recognition tasks.
+2. **Pattern Spotters:** CNNs use filters to detect spatial hierarchies, recognizing patterns like lines and curves to form complex visual concepts.
+3. **Learning Visual Features:** Through layers, CNNs learn to identify features from simple to complex without human intervention.
+4. **Image to Insight:** These networks transform input images into classifications, like distinguishing a cat from a dog, with high accuracy.
+5. **Beyond Sight:** While prominent in vision tasks, CNNs also help in areas where pattern recognition is key, like medical imaging and video analysis.
+

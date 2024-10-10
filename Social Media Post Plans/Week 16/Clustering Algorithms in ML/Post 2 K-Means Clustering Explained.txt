@@ -1,0 +1,7 @@
+**Post 2: K-Means Clustering Explained**
+1. **Centers of Gravity:** K-means finds the center point (mean) of data clusters, grouping points around these centers.
+2. **K Choices:** The 'K' in k-means represents the number of clusters to identify, which is chosen beforehand.
+3. **Efficiency First:** It's known for its simplicity and efficiency in partitioning a dataset into distinct, non-overlapping groups.
+4. **Real-World Clustering:** K-means is used in market segmentation, organizing customers into groups for targeted marketing.
+5. **Optimization Needed:** The algorithm requires optimization to ensure the chosen 'K' value yields meaningful clustering.
+

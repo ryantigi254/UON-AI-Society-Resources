@@ -1,0 +1,9 @@
+**Week 11: Applications of Generative AI**
+
+**Post 1: Creative AI: Art, Music, and Content Creation**
+1. **AI in Art:** Experiment with AI-driven tools to create digital art, exploring how algorithms can complement human creativity.
+2. **Music Generation:** Use a generative model to compose music, understanding the challenges and possibilities of AI in creative compositions.
+3. **Automated Content Creation:** Explore AI tools for generating written content, such as marketing copy or news articles, noting the balance between AI assistance and human oversight.
+4. **Creative Constraints:** Learn to set constraints and guide generative AI models to produce creative work that aligns with specific themes or styles.
+5. **Evaluating Creativity:** Discuss the criteria for evaluating AI-generated art and content, considering originality, coherence, and emotional impact.
+

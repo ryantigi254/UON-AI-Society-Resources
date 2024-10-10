@@ -1,0 +1,9 @@
+**Week 7: Evaluating ML Models**
+
+**Post 1: The Importance of Accuracy and Precision**
+1. **Right on Target:** Accuracy measures how often a model makes the correct predictions, vital for its overall reliability.
+2. **Fine Detailing:** Precision looks at how accurate the model's positive predictions are, crucial for applications like disease screening.
+3. **Balanced Metrics:** Both accuracy and precision are necessary to evaluate a model's performance comprehensively.
+4. **Confusion in Results:** These metrics are derived from a confusion matrix, which tabulates prediction results versus actual values.
+5. **Cost of Errors:** In critical applications, the consequences of false positives and false negatives must be weighed when considering accuracy and precision.
+

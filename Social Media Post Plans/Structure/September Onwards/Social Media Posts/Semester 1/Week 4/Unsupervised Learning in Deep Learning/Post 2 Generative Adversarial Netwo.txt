@@ -1,0 +1,6 @@
+**Post 2: Generative Adversarial Networks (GANs)**
+1. **Creative Adversaries:** GANs consist of two competing networks—a generator that creates data and a discriminator that evaluates it, leading to highly realistic synthetic data generation.
+2. **Artistic Generation:** They've gained fame for their ability to generate art, music, and even realistic human faces by learning from real examples.
+3. **Data Augmentation:** GANs are useful for generating additional data when datasets are limited, improving the performance of machine learning models.
+4. **Learning to Discriminate:** The discriminator in a GAN learns to differentiate between real and synthetic data, enhancing its ability to evaluate the generator's output.
+5. **Evolving Novelty:** Over time, GANs get better at generating data that's increasingly difficult to distinguish from authentic data, continually improving through their adversarial process.

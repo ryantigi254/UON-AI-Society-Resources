@@ -1,0 +1,10 @@
+**Week 10: Recurrent Neural Networks (RNNs)**
+
+**Post 1: Understanding RNNs and Sequence Data**
+1. **Sequencing Specialists:** RNNs are adept at handling data where sequence matters, like language or time-series, learning patterns across sequences for prediction or generation.
+2. **Memory Elements:** They have 'memory' of previous inputs by looping output back into the network, influencing the processing of the sequence as it unfolds.
+3. **Temporal Dynamics:** This memory aspect allows RNNs to understand dynamic changes over time, crucial for tasks like stock price prediction or language translation.
+4. **Layer Linking:** RNNs can link together layers in a chain-like fashion, each layer passing information to the next, mirroring the sequential nature of their input data.
+5. **Challenges of Sequences:** RNNs can struggle with long sequences due to issues like vanishing gradients, which newer architectures like LSTMs aim to resolve.
+
+

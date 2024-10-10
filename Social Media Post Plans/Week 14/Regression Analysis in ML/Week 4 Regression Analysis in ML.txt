@@ -1,0 +1,11 @@
+**Week 4: Regression Analysis in ML**
+
+**Post 1: Understanding Regression in ML**
+1. **Plotting Predictions:** Regression analysis is used in ML to predict numerical values, like house prices, based on patterns in data.
+2. **Trend Lines:** By drawing lines through data points, regression helps us see trends and make predictions about future points.
+3. **Many Factors:** Multiple regression uses several variables to make more accurate predictions, such as predicting health outcomes from various lifestyle factors.
+4. **Curve Fitting:** Sometimes data isn't straight-lined; regression can curve to fit more complex data patterns.
+5. **Error Minimization:** A core goal of regression is to minimize the difference between predicted values and actual data points, improving prediction accuracy.
+
+
+

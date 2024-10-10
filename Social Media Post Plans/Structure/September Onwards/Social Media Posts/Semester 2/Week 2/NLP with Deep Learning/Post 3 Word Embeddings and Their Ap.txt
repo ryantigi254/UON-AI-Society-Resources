@@ -1,0 +1,6 @@
+**Post 3: Word Embeddings and Their Applications**
+1. **Exploring Word Embeddings:** Understand the concept of word embeddings and how they represent words as dense vectors, capturing semantic relationships.
+2. **Training Word Embeddings:** Learn to train custom word embeddings on your text corpus using models like Word2Vec or GloVe.
+3. **Using Pre-trained Embeddings:** Experiment with pre-trained word embeddings in your NLP models to boost performance with minimal effort.
+4. **Embeddings in Deep NLP Models:** Integrate word embeddings into deep learning models for tasks like text classification, entity recognition, or sentiment analysis.
+5. **Visualizing Embeddings:** Use dimensionality reduction techniques like t-SNE to visualize word embeddings, gaining insights into the semantic space of your model's vocabulary.

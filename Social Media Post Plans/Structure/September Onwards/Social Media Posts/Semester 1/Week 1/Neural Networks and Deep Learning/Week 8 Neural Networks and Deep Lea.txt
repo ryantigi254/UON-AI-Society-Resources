@@ -1,0 +1,9 @@
+**Week 8: Neural Networks and Deep Learning**
+
+**Post 1: Transitioning from ML to DL**
+1. **Layered Learning:** Deep learning involves neural networks with multiple layers that mimic human brain functions to learn from vast amounts of data.
+2. **From Basics to Depth:** It builds on classical machine learning techniques, enabling the modeling of more complex patterns and decision-making processes.
+3. **Scalable Intelligence:** Deep learning excels as data grows, often outperforming traditional algorithms in tasks like image and speech recognition.
+4. **Feature Abstraction:** These models automatically detect the features that are important for classification, rather than relying on human-designed features.
+5. **Beyond Human Limits:** Deep learning can identify patterns and make predictions beyond human capabilities, unlocking new possibilities across various fields.
+

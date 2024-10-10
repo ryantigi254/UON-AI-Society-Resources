@@ -1,0 +1,7 @@
+**Post 2: Pooling and Convolutional Layers**
+1. **Feature Focus:** Pooling layers reduce the dimensionality of data, allowing the network to focus on the most important features.
+2. **Convolutional Core:** Convolutional layers apply filters to detect specific features, like edges or textures, in parts of an image.
+3. **Parameter Reduction:** Pooling helps to lower the number of parameters, decreasing computational load and reducing overfitting.
+4. **Spatial Hierarchies:** By stacking convolutional and pooling layers, CNNs can understand increasingly complex patterns in images.
+5. **Efficient Learning:** These techniques make CNNs efficient in learning from images, enabling them to handle larger datasets effectively.
+

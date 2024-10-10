@@ -1,0 +1,7 @@
+**Post 3: CNNs in Practice: From Image Classification to Beyond**
+1. **Real-World Image Classification:** Apply a CNN to a real-world image classification problem, like identifying plant species or medical imaging diagnosis.
+2. **Object Detection Projects:** Extend CNN applications to object detection tasks, marking and classifying objects within larger images.
+3. **Semantic Segmentation Exploration:** Dive into semantic segmentation using CNNs to label each pixel of an image with a class, such as for autonomous vehicle navigation.
+4. **Image Generation with CNNs:** Experiment with generative CNN models to create new images, understanding the basics of generative adversarial networks (GANs).
+5. **CNNs Beyond Vision:** Explore unconventional applications of CNNs beyond vision tasks, such as audio analysis or text classification, understanding their versatility.
+

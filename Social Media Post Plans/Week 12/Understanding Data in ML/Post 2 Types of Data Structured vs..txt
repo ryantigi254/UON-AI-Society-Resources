@@ -1,0 +1,8 @@
+**Post 2: Types of Data: Structured vs. Unstructured**
+1. **Structured Simplicity:** Structured data is neatly organized, usually in tables, making it directly usable in ML algorithms.
+2. **Unstructured Complexity:** Unstructured data, like text or images, is messy and requires more work to be ready for machine learning.
+3. **Prepping the Unstructured:** Techniques like natural language processing and image recognition are used to turn unstructured data into structured insights.
+4. **Balancing the Data Types:** Effective machine learning often involves combining structured and unstructured data for a more complete view.
+5. **The Right Format for ML:** Preparing data in a machine-readable format is critical for training accurate machine learning models.
+
+

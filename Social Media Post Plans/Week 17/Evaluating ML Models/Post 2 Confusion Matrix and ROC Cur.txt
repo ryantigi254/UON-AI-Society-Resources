@@ -1,0 +1,7 @@
+**Post 2: Confusion Matrix and ROC Curve**
+1. **Prediction Breakdown:** A confusion matrix shows true positives, true negatives, false positives, and false negatives, providing insight into prediction errors.
+2. **Visual Performance:** ROC curves graphically represent a model's ability to discriminate between classes at all thresholds, helpful for selecting the best model.
+3. **Sensitivity vs. Specificity:** The curve plots the true positive rate against the false positive rate, reflecting the trade-offs between sensitivity and specificity.
+4. **Area Under Curve (AUC):** The AUC of the ROC curve quantifies the overall performance of a model; the closer to 1, the better.
+5. **Threshold Tuning:** These tools help in tuning the decision thresholds for classification, balancing the rate of positive and negative classifications.
+

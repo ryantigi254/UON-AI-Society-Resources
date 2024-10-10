@@ -1,0 +1,8 @@
+**Week 12: Reinforcement Learning in Deep Contexts**
+
+**Post 1: Deep Reinforcement Learning: An Overview**
+1. **Foundations of DRL:** Start by understanding the basics of deep reinforcement learning (DRL), where deep learning meets reinforcement learning to solve complex decision-making tasks.
+2. **Key DRL Algorithms:** Explore key DRL algorithms like Deep Q-Networks (DQN) and Proximal Policy Optimization (PPO), understanding their applications and strengths.
+3. **Building a DRL Agent:** Construct a simple DRL agent using a framework like TensorFlow or PyTorch, applying it to a basic environment like OpenAI Gym.
+4. **Challenges in DRL:** Discuss the challenges unique to DRL, such as sample efficiency and the exploration-exploitation trade-off, and strategies to address them.
+5. **DRL Success Stories:** Highlight successful applications of DRL in areas like gaming, robotics, and autonomous vehicles, showcasing its potential to tackle complex problems.

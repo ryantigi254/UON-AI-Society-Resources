@@ -1,0 +1,6 @@
+**Post 2: Exploring Binary and Multiclass Classification**
+1. **Two Choices:** Binary classification deals with two possible outcomes, determining if an instance belongs to a category or not.
+2. **Multi-faceted:** Multiclass classification sorts data into more than two categories, like sorting news articles into various genres.
+3. **Decision Boundaries:** ML finds the boundary or cut-off point that best separates different classes.
+4. **One vs. Rest:** In multiclass, algorithms can be trained to distinguish one class from all others, then repeated for each class.
+5. **Error Handling:** Classifiers must manage errors and uncertainties, especially in complex, real-world data.

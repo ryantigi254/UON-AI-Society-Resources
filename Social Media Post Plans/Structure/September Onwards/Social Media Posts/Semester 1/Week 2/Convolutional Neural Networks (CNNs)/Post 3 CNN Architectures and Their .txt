@@ -1,0 +1,7 @@
+**Post 3: CNN Architectures and Their Achievements**
+1. **Innovative Structures:** There are various CNN architectures like AlexNet and ResNet, each with unique designs that have pushed the boundaries of image recognition.
+2. **Milestone Models:** Breakthroughs in CNN designs have led to significant improvements in accuracy and speed, often showcased in competitions like ImageNet.
+3. **Transfer Learning:** Pre-trained CNNs on large datasets can be adapted, or 'transferred', to new tasks with limited data, accelerating development.
+4. **Real-world Solutions:** Successful CNN models are behind many of the image-based services we use today, from photo tagging to autonomous vehicle navigation.
+5. **Continued Evolution:** The field is dynamic, with ongoing research driving the creation of more advanced, efficient, and accurate CNN models.
+

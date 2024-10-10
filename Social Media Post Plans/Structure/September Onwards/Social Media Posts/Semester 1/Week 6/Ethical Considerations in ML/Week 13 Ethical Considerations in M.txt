@@ -1,0 +1,8 @@
+**Week 13: Ethical Considerations in ML**
+
+**Post 1: Bias and Fairness in ML Models**
+1. **Bias Awareness:** ML models can inadvertently learn biases present in the training data, leading to unfair outcomes.
+2. **Fairness Measures:** It’s essential to measure and ensure fairness in ML models so that decisions do not favor or discriminate against any group unfairly.
+3. **Diverse Datasets:** Using diverse and representative data can help reduce bias and improve the equity of ML model predictions.
+4. **Algorithmic Transparency:** Understanding how and why models make decisions can identify potential biases and inform fairer models.
+5. **Continuous Monitoring:** The fairness of ML models should be continually assessed, especially as they are deployed in various societal contexts.

@@ -1,0 +1,10 @@
+**Week 2: Understanding Data in ML**
+
+**Post 1: The Role of Data in ML**
+1. **Data as a Foundation:** Data is the cornerstone of machine learning, providing the raw material that algorithms use to learn and make predictions.
+2. **Quality Over Quantity:** It's not just about having a lot of data; the quality, relevance, and cleanliness of data are crucial for effective machine learning.
+3. **Data Sources:** Machine learning systems can learn from a variety of data types, from images and text to complex sensor data.
+4. **From Data to Knowledge:** The process of transforming raw data into actionable insights is the essence of machine learning.
+5. **Continuous Learning:** Machine learning models can improve over time as they are exposed to new and diverse data sets.
+
+

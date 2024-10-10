@@ -1,0 +1,13 @@
+**Week 3: Optimizing Neural Networks**
+
+**Post 1: The Role of Loss Functions**
+1. **Experiment with Loss Functions:** Utilize a machine learning platform to train a simple model, experimenting with different loss functions to observe their effects.
+2. **Understanding Loss Impact:** Analyze how the choice of loss function influences the model’s learning path and final performance.
+3. **Loss Function Selection:** Research criteria for selecting the appropriate loss function based on your specific deep learning task, such as regression or classification.
+4. **Visualizing Loss:** Use visualization tools to plot loss over epochs, gaining insights into model convergence and learning rates.
+5. **Advanced Loss Concepts:** Explore advanced concepts like custom loss functions for unique deep learning challenges, understanding their development and application.
+
+
+
+
+

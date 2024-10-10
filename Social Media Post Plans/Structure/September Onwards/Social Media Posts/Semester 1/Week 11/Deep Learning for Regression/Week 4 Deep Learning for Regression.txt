@@ -1,0 +1,8 @@
+**Week 4: Deep Learning for Regression**
+
+**Post 1: Regression in Deep Learning Context**
+1. **Building Regression Models:** Construct a regression model using a deep learning framework to predict continuous outcomes, like house prices or temperatures.
+2. **Loss Functions for Regression:** Explore and apply loss functions suitable for regression, such as mean squared error (MSE) or mean absolute error (MAE), in your models.
+3. **Feature Scaling:** Implement feature scaling in your data preprocessing to improve model training efficiency and accuracy in regression tasks.
+4. **Model Evaluation:** Evaluate your regression model using metrics like R-squared and root mean squared error (RMSE), interpreting the results for insights.
+5. **Regression Challenges:** Identify and address common challenges in deep learning regression, such as non-linearity and data quality issues.

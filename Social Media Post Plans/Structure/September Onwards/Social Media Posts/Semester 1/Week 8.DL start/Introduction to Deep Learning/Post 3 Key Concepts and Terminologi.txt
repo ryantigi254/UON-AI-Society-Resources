@@ -1,0 +1,6 @@
+**Post 3: Key Concepts and Terminologies in Deep Learning**
+1. **Understand Core Terms:** Familiarize yourself with key deep learning terms like neurons, layers, activation functions, and backpropagation, building your foundational vocabulary.
+2. **Activation Function Roles:** Explore different activation functions (e.g., ReLU, Sigmoid) using online tools or simulations to see how they influence neural network behavior.
+3. **Backpropagation Basics:** Watch tutorials or simulations on backpropagation to grasp how neural networks learn and adjust their parameters.
+4. **Loss Function Exploration:** Investigate various loss functions and their roles in model training, understanding how they guide the learning process.
+5. **Optimizer Selection:** Learn about optimizer algorithms (e.g., SGD, Adam) and their impact on training efficiency and model performance.

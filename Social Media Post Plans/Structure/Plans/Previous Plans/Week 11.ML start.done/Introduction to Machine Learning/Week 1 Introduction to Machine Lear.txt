@@ -1,0 +1,10 @@
+**Week 1: Introduction to Machine Learning**
+
+**Post 1: What is Machine Learning? An overview of AI and ML**
+1. **Emergence from AI:** Machine learning is a breakthrough from AI, where systems learn from data, identifying patterns, and improving with experience.
+2. **Learning Machines:** These systems grow smarter over time, making decisions based on the data they analyze, much like humans learn from experience.
+3. **Beyond Traditional Coding:** Machine learning operates without explicit instructions, adapting and evolving with new data.
+4. **Algorithm Diversity:** From decision trees to neural networks, machine learning employs a variety of algorithms to solve problems.
+5. **Decision Making Redefined:** It enhances decision-making by evaluating vast amounts of data, learning from trends and anomalies.
+
+

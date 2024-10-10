@@ -1,0 +1,7 @@
+**Post 3: Semantic Segmentation and Image Generation**
+1. **Understanding Semantic Segmentation:** Delve into semantic segmentation, where the goal is to classify each pixel in an image, and how CNNs are applied to this task.
+2. **Building a Segmentation Model:** Use a semantic segmentation framework (like U-Net or Mask R-CNN) to create a model that can segment images into different categories.
+3. **Datasets and Annotations:** Learn about the types of datasets and annotations needed for semantic segmentation and how to prepare your data.
+4. **Creative Image Generation:** Explore image generation techniques using CNNs, understanding the basics of how generative models like GANs work.
+5. **Developing a Generative Project:** Consider creating a simple project that uses a generative model to create new images, such as artwork or synthetic faces.
+

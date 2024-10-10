@@ -1,0 +1,12 @@
+*Week 12: Reinforcement Learning**
+
+**Post 1: Introduction to Reinforcement Learning**
+1. **Learning Through Trial:** Reinforcement learning (RL) is about training models to make a sequence of decisions by rewarding desired actions and penalizing the wrong ones.
+2. **Agent and Environment:** In RL, an 'agent' learns to interact with its 'environment' effectively to achieve a goal, like winning a game or navigating a maze.
+3. **Reward System:** The key to RL is the reward signal, which guides the agent by providing feedback on its actions' effectiveness.
+4. **Exploration vs. Exploitation:** RL involves a balance between exploring new actions and exploiting known strategies to maximize the reward.
+5. **Policy Learning:** The agent learns a 'policy'—a strategy for choosing actions based on the state of the environment that leads to the best outcome.
+
+
+
+

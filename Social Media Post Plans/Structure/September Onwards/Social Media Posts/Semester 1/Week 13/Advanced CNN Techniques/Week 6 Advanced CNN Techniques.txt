@@ -1,0 +1,11 @@
+**Week 6: Advanced CNN Techniques**
+
+**Post 1: Transfer Learning with CNNs**
+1. **Introduction to Transfer Learning:** Start by understanding the concept of transfer learning and how it leverages pre-trained models to save time and computational resources.
+2. **Choosing a Pre-trained Model:** Explore various pre-trained CNN models (like VGG, ResNet) available in deep learning frameworks and select one for your task.
+3. **Adapting to Your Dataset:** Learn how to adapt a pre-trained model to a new dataset by fine-tuning the layers or adding custom layers to the network.
+4. **Training and Evaluation:** Train your adapted model on a specific task, such as a new image classification problem, and evaluate its performance.
+5. **Transfer Learning Best Practices:** Gather best practices and tips for effective transfer learning, including handling dataset discrepancies and avoiding overfitting.
+
+
+

@@ -1,0 +1,3 @@
+**NLP - Movie Genre Classification**: An NLP endeavor to classify movies based on their descriptions, showcasing the power of language analysis in content categorization. [View Project](https://github.com/mohamedezzeldeenhassanmohamed/NLP-Projects-Repository)
+
+**Robotics - Autonomous Four-Legged Robot**: This collection includes innovative robotics projects like autonomous four-legged robots, pushing the boundaries of autonomous systems and AI. [View Projects](https://github.com/mjyc/awesome-robotics-projects?tab=readme-ov-file)

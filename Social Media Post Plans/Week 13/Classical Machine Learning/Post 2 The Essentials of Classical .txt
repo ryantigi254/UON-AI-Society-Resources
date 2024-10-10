@@ -1,0 +1,7 @@
+**Post 2: The Essentials of Classical ML Algorithms**
+1. **Algorithm Variety:** Classical ML includes a variety of algorithms, each suited for different types of data and outcomes.
+2. **Decision Trees:** These algorithms model decisions and possible consequences, resembling a tree structure.
+3. **Bayes Theorem:** Naive Bayes classifiers use probability theory to classify data based on prior knowledge.
+4. **Support Vectors:** Support Vector Machines classify data by finding the best boundary between different categories of data.
+5. **Ensemble Methods:** Techniques like Random Forest combine multiple algorithms to improve accuracy and overcome individual weaknesses.
+

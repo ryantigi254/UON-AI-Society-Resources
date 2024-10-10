@@ -1,0 +1,8 @@
+**Week 2: Neural Network Foundations**
+
+**Post 1: Anatomy of a Neural Network**
+1. **Build a Simple Network:** Use an online neural network simulator to build a basic network, experimenting with different structures and observing the outcomes.
+2. **Data Through Layers:** Trace how data moves through a neural network's layers, noting how each layer's processing contributes to the final output.
+3. **Weights and Biases in Action:** Adjust weights and biases in your simulated network to see how they affect the network's predictions, understanding their crucial role.
+4. **Training Process Overview:** Simulate the training process, noting how the network adjusts its weights and biases to improve accuracy over iterations.
+5. **Explore Architectures:** Investigate various neural network architectures, noting their design rationales and typical applications.

@@ -1,0 +1,10 @@
+**Week 5: Convolutional Neural Networks (CNNs)**
+
+**Post 1: CNNs Explained: Vision Processing Powerhouses**
+1. **Understanding CNN Architecture:** Explore the unique architecture of CNNs, focusing on how convolutional layers work to extract features from images.
+2. **Building
+
+ a Basic CNN:** Construct a simple CNN using a deep learning framework to classify images, such as differentiating between cats and dogs.
+3. **Filter and Pooling Functions:** Experiment with various filter sizes and pooling layers to see their effects on model accuracy and complexity.
+4. **Visualizing CNN Layers:** Use visualization tools to see what each CNN layer learns and how it contributes to the final classification.
+5. **CNN Training Best Practices:** Learn best practices for training CNNs, including data augmentation techniques to enhance model robustness.

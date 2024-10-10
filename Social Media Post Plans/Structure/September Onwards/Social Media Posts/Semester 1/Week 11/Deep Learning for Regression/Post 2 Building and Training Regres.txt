@@ -1,0 +1,7 @@
+**Post 2: Building and Training Regression Models**
+1. **Sequential Model Building:** Use a sequential model architecture to construct a regression neural network, layer by layer, tailoring it to your dataset.
+2. **Optimizer Selection:** Choose and configure an optimizer for your regression model, experimenting with its parameters to find the optimal configuration.
+3. **Training Sessions:** Train your regression model on a dataset, adjusting hyperparameters like batch size and epochs to optimize performance.
+4. **Visualization of Training:** Plot training and validation loss over epochs to visually assess model learning and overfitting.
+5. **Hyperparameter Tuning:** Engage in hyperparameter tuning sessions, systematically varying model parameters to enhance prediction accuracy.
+

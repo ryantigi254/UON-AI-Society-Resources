@@ -1,0 +1,9 @@
+**Week 10: Generative Models in Deep Learning**
+
+**Post 1: Introduction to Generative Models**
+1. **Generative vs. Discriminative Models:** Understand the difference between generative and discriminative models, focusing on their goals and applications.
+2. **Exploring GANs:** Delve into Generative Adversarial Networks (GANs), learning how the generator and discriminator work together to produce new data instances.
+3. **Building a Simple GAN:** Construct a basic GAN using a deep learning framework and train it to generate images similar to those in your dataset.
+4. **Generative Model Applications:** Explore applications of generative models, from data augmentation to creating art and synthetic datasets.
+5. **Ethical Considerations:** Discuss the ethical implications of generative models, including concerns about deepfakes and data authenticity.
+

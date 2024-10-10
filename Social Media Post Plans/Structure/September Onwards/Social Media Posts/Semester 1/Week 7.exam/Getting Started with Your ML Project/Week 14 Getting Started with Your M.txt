@@ -1,0 +1,8 @@
+*Week 14: Getting Started with Your ML Project**
+
+**Post 1: Choosing the Right Problem and Dataset**
+1. **Problem Identification:** Begin by identifying a problem that ML can feasibly address, where data-driven decisions can make a significant impact.
+2. **Dataset Selection:** Choose a dataset that is relevant to the problem, large enough to train an ML model, and clean enough to yield accurate insights.
+3. **Data Ethics:** Ensure that the dataset was collected ethically, with proper permissions and respect for privacy.
+4. **Feasibility Analysis:** Evaluate the feasibility of the project in terms of data availability, potential biases, and the resources required for execution.
+5. **Objective Setting:** Clearly define what success looks like for your ML project, setting realistic and measurable objectives.

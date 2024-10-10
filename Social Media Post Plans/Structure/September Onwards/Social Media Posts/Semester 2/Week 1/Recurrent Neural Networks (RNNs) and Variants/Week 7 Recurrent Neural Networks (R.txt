@@ -1,0 +1,8 @@
+**Week 7: Recurrent Neural Networks (RNNs) and Variants**
+
+**Post 1: RNNs: Understanding the Basics**
+1. **RNN Introduction:** Start with an overview of RNNs and their ability to process sequential data, like text or time series.
+2. **Building a Simple RNN:** Use a deep learning library to build a basic RNN model and train it on a simple sequence task, such as predicting the next number in a series.
+3. **Exploring RNN Limitations:** Investigate the limitations of vanilla RNNs, including the challenges of long-term dependencies and vanishing gradients.
+4. **RNN Applications:** Look into common applications of RNNs, including language modeling and time series prediction, to understand their practical uses.
+5. **Hands-on Sequence Modeling:** Try a hands-on sequence modeling project, such as creating a simple text generator or forecasting stock prices with RNNs.

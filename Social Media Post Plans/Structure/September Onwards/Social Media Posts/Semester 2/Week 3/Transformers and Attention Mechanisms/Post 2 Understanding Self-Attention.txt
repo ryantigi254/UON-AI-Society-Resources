@@ -1,0 +1,7 @@
+**Post 2: Understanding Self-Attention and Positional Encoding**
+1. **Implementing Self-Attention:** Implement a self-attention mechanism from scratch or using a library, integrating it into a neural network to see its effect on NLP tasks.
+2. **Positional Encoding Insights:** Learn how positional encoding adds information about the order of words in a sentence, crucial for Transformers since they don't process data sequentially.
+3. **Hands-on Encoding:** Experiment with adding positional encoding to your Transformer model and observe changes in performance on sequence tasks.
+4. **Visualizing Attention:** Utilize visualization tools to see how attention mechanisms focus on different parts of the input data, improving model interpretability.
+5. **Advanced Attention Techniques:** Explore advanced variations of the attention mechanism, such as multi-head attention, and their benefits in model performance.
+

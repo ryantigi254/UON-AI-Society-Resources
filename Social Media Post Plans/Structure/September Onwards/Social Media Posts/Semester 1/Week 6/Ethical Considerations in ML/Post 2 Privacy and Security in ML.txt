@@ -1,0 +1,6 @@
+**Post 2: Privacy and Security in ML**
+1. **Data Sensitivity:** ML models often require access to sensitive information, raising privacy concerns.
+2. **Privacy-Preserving Techniques:** Techniques like differential privacy introduce random noise to protect individual data points in aggregated datasets.
+3. **Secure Learning:** Ensuring the security of ML models against adversarial attacks is critical to maintaining user trust and model integrity.
+4. **Model Accountability:** ML practitioners must ensure that models do not violate privacy regulations and are robust against exploitation.
+5. **Ethical Data Use:** The ethical use of data involves transparent practices about data collection, usage, and user consent.

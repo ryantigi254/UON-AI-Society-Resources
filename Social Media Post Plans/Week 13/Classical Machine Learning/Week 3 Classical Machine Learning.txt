@@ -1,0 +1,8 @@
+**Week 3: Classical Machine Learning**
+
+**Post 1: Supervised vs. Unsupervised Learning**
+1. **Guided Learning:** Supervised learning involves using labeled data to teach models how to predict outcomes.
+2. **Self-discovery:** Unsupervised learning finds hidden patterns or intrinsic structures in unlabeled data.
+3. **The Labeling Effort:** Labeled data requires manual classification, which can be time-consuming but provides clear guidance to models.
+4. **Exploration of Data:** Unsupervised learning is key for exploratory data analysis, clustering, and discovering the unknown.
+5. **Choosing the Path:** The choice between supervised and unsupervised learning depends on the data available and the problem to be solved.

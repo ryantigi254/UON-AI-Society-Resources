@@ -1,0 +1,7 @@
+**Post 2: Architectural Innovations in CNNs**
+1. **Exploring Advanced CNNs:** Research advanced CNN architectures like AlexNet, VGG, ResNet, and understand their design principles and contributions to deep learning.
+2. **Transfer Learning with CNNs:** Implement transfer learning using a pre-trained CNN model, adapting it to a new image classification task with limited data.
+3. **Performance Benchmarks:** Compare the performance of different CNN architectures on a standard dataset, noting efficiency, accuracy, and resource usage.
+4. **Custom Architecture Design:** Design a custom CNN architecture for a specific problem, balancing model complexity with computational constraints.
+5. **Innovations in CNNs:** Stay updated on the latest innovations in CNN architectures and how they tackle previous limitations, enhancing model performance.
+

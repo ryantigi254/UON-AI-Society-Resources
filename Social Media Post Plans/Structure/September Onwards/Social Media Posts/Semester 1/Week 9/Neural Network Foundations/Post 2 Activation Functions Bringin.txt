@@ -1,0 +1,7 @@
+**Post 2: Activation Functions: Bringing Neural Networks to Life**
+1. **Experiment with Functions:** Using a neural network tool, experiment with different activation functions to see how they affect model performance.
+2. **Non-Linearity Importance:** Understand the importance of non-linearity by comparing network performance with and without non-linear activation functions.
+3. **Activation in Layers:** Apply different activation functions to various layers in a network to observe their effects on learning and output.
+4. **Function Impact Analysis:** Analyze how the choice of activation function impacts learning speed, convergence, and the ability to model complex patterns.
+5. **Practical Selection Tips:** Gather tips on choosing the right activation function for different types of neural network layers and problems.
+

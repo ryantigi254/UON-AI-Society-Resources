@@ -1,0 +1,6 @@
+**Post 2: Key Concepts: Agents, Environment, Rewards**
+1. **Agent's Role:** The agent is the learner or decision-maker in RL, which performs actions to receive rewards.
+2. **Understanding Environment:** The environment is everything the agent interacts with and includes all factors that the agent does not control.
+3. **Rewards as Feedback:** Rewards are the immediate feedback given for an action, guiding the agent toward or away from certain behaviors.
+4. **State Space:** The 'state' represents the current situation of the agent in the environment, influencing its decisions.
+5. **Action Choices:** The set of all possible actions available to the agent at a given state defines its action space, which can be finite or infinite.

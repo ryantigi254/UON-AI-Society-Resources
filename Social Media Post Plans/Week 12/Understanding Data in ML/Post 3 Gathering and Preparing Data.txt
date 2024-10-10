@@ -1,0 +1,7 @@
+**Post 3: Gathering and Preparing Data for ML**
+1. **Data Collection:** Gathering data is the first step, whether it's user data for recommendation systems or sensor data for predictive maintenance.
+2. **Cleaning the Data:** Raw data often needs to be cleaned and formatted, removing errors or inconsistencies.
+3. **Feature Engineering:** Selecting or creating the right features (data attributes) that the machine learning model will use to learn.
+4. **Dataset Splitting:** Dividing the data into training sets for learning and test sets for evaluating the model's performance.
+5. **Ready, Set, Learn:** With prepared data, machine learning algorithms can start the learning process, finding patterns and making predictions.
+

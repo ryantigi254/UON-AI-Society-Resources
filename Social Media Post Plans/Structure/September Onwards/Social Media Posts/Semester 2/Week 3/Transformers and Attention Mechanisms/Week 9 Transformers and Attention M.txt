@@ -1,0 +1,13 @@
+**Week 9: Transformers and Attention Mechanisms**
+
+**Post 1: The Rise of Transformers in NLP**
+1. **Discovering Transformers:** Start with an overview of Transformers and how they've revolutionized NLP tasks with their attention mechanisms.
+2. **Self-Attention Concept:** Explore the self-attention mechanism in Transformers, understanding how it allows models to weigh the importance of different words in a sentence.
+3. **Building a Transformer Model:** Use a deep learning framework to construct a basic Transformer model, applying it to a simple NLP task like text classification.
+4. **Transformers vs. RNNs/LSTMs:** Compare the performance and efficiency of Transformers with traditional sequence models like RNNs and LSTMs on NLP tasks.
+5. **Exploring Transformer Architectures:** Dive into popular Transformer architectures such as BERT and GPT, noting their unique features and applications.
+
+
+
+
+

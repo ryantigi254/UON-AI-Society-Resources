@@ -1,0 +1,7 @@
+**Post 2: Linear Regression Use Cases**
+1. **Straight to the Point:** Linear regression is the go-to method for predicting outcomes directly proportional to input, like sales based on advertising spend.
+2. **Economic Forecasting:** Economists use it to predict future economic indicators based on historical data.
+3. **Risk Assessment:** Insurance companies use linear regression to assess the risk of potential policyholders.
+4. **Real Estate Appraisal:** Property values are often predicted with linear regression, considering factors like location and size.
+5. **Health Risk Prediction:** In healthcare, it can help predict patient risks based on metrics like BMI and age.
+

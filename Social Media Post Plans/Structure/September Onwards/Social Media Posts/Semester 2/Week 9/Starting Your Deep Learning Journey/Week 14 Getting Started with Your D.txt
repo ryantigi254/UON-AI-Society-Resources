@@ -1,0 +1,9 @@
+**Week 14: Getting Started with Your Deep Learning Project**
+
+**Post 1: Choosing the Right Problem and Dataset**
+1. **Problem Identification:** Identify a problem that deep learning can address effectively, considering the availability of data and the potential impact of the solution.
+2. **Finding Datasets:** Explore public datasets relevant to your chosen problem or learn how to curate and prepare your dataset, ensuring it's suitable for deep learning.
+3. **Data Ethics and Privacy:** Evaluate the ethical considerations of your dataset, including consent, privacy, and potential biases, ensuring responsible use of data.
+4. **Project Feasibility:** Assess the feasibility of your deep learning project, considering computational resources, required expertise, and time investment.
+5. **Setting Objectives:** Define clear, measurable objectives for your project, establishing what success looks like and how it will be evaluated.
+
