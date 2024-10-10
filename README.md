@@ -22,6 +22,8 @@ This project was developed for the Union Day event. It combines Replicate and Op
 
 For more details, check the Jupyter notebook:
 
+Note: Any API keys that were used in this project have been revoked for security purposes.
+
 ## Computer Vision Learning
 
 This section includes resources and code for learning computer vision techniques, including hand tracking using MediaPipe.
